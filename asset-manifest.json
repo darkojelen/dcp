@@ -1,0 +1,12 @@
+{
+  "main.css": "/dcp/static/css/main.ecb50974.chunk.css",
+  "main.js": "/dcp/static/js/main.a1dd3783.chunk.js",
+  "static/js/1.1f284f9b.chunk.js": "/dcp/static/js/1.1f284f9b.chunk.js",
+  "static/js/2.763b7b9e.chunk.js": "/dcp/static/js/2.763b7b9e.chunk.js",
+  "runtime~main.js": "/dcp/static/js/runtime~main.0b6173ad.js",
+  "static/media/beep-sound.mp3": "/dcp/static/media/beep-sound.0601a26f.mp3",
+  "static/media/styling.css": "/dcp/static/media/manual-2.dd0fba18.svg",
+  "index.html": "/dcp/index.html",
+  "precache-manifest.bf78b60b10315e608e81301d75ceba10.js": "/dcp/precache-manifest.bf78b60b10315e608e81301d75ceba10.js",
+  "service-worker.js": "/dcp/service-worker.js"
+}
