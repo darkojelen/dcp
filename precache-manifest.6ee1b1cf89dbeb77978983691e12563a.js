@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "a1dd37831ff7b2116af0",
-    "url": "/dcp/static/css/main.ecb50974.chunk.css"
+    "revision": "3c39dfbb118f0c353502",
+    "url": "/dcp/static/css/main.d6b5c9ee.chunk.css"
   },
   {
-    "revision": "a1dd37831ff7b2116af0",
-    "url": "/dcp/static/js/main.a1dd3783.chunk.js"
+    "revision": "3c39dfbb118f0c353502",
+    "url": "/dcp/static/js/main.3c39dfbb.chunk.js"
   },
   {
     "revision": "1f284f9bc76289c4db2f",
@@ -24,36 +24,24 @@ self.__precacheManifest = [
     "url": "/dcp/static/media/beep-sound.0601a26f.mp3"
   },
   {
-    "revision": "052c4cfcde1f2f6fecaafcbcc100fddc",
-    "url": "/dcp/static/media/vakcine-1.052c4cfc.svg"
-  },
-  {
-    "revision": "e5f38cf50301ec1d88223c0db6487893",
-    "url": "/dcp/static/media/vakcine-2.e5f38cf5.svg"
+    "revision": "e8b586f4c2107bf82f14a57ac49af3a1",
+    "url": "/dcp/static/media/test-1.e8b586f4.svg"
   },
   {
     "revision": "e9fdf3479ad5db0c19687160107933fd",
     "url": "/dcp/static/media/recover-1.e9fdf347.svg"
   },
   {
-    "revision": "02c29a944f77db72cce9eead0b5e32cb",
-    "url": "/dcp/static/media/sledilnik.02c29a94.svg"
-  },
-  {
     "revision": "49c930740e05ba8cfb841189d7d1e950",
     "url": "/dcp/static/media/test-2.49c93074.svg"
   },
   {
-    "revision": "917481724c57cb584b946593a1c5ee08",
-    "url": "/dcp/static/media/recover-2.91748172.svg"
-  },
-  {
-    "revision": "e8b586f4c2107bf82f14a57ac49af3a1",
-    "url": "/dcp/static/media/test-1.e8b586f4.svg"
-  },
-  {
     "revision": "334868a83a93a8bbd6cdfe0996d8dbc0",
     "url": "/dcp/static/media/tripike.334868a8.svg"
+  },
+  {
+    "revision": "02c29a944f77db72cce9eead0b5e32cb",
+    "url": "/dcp/static/media/sledilnik.02c29a94.svg"
   },
   {
     "revision": "dae7cd60fc47ffdf9e8495fb59e7a5cc",
@@ -68,7 +56,19 @@ self.__precacheManifest = [
     "url": "/dcp/static/media/manual-2.dd0fba18.svg"
   },
   {
-    "revision": "32200cf6211c5b353e75552fede3ef4f",
+    "revision": "052c4cfcde1f2f6fecaafcbcc100fddc",
+    "url": "/dcp/static/media/vakcine-1.052c4cfc.svg"
+  },
+  {
+    "revision": "917481724c57cb584b946593a1c5ee08",
+    "url": "/dcp/static/media/recover-2.91748172.svg"
+  },
+  {
+    "revision": "e5f38cf50301ec1d88223c0db6487893",
+    "url": "/dcp/static/media/vakcine-2.e5f38cf5.svg"
+  },
+  {
+    "revision": "ec494ce0bb42904b9bdd693fc38106fe",
     "url": "/dcp/index.html"
   }
 ];
