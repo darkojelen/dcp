@@ -36,5 +36,5 @@ export const TRANSLATIONS_EN = {
 	setup: "Settings",
 	firstName: "Name",
 	lastName: "Last name",
-	yearBorn: "Year of born"
+	yearBorn: "Year of birth"
 };
